@@ -1,0 +1,16 @@
+{
+  "name": "XiqQi_Press",
+  "version": "1.0.0",
+  "author": "reco_luan",
+  "scripts": {
+    "dev": "vuepress dev . --open --host \"localhost\"",
+    "build": "vuepress build ."
+  },
+  "devDependencies": {
+    "autoprefixer": "^8.0.0",
+    "postcss-loader": "^6.1.0",
+    "vuepress": "1.8.2",
+    "vuepress-theme-reco": "1.6.6"
+  },
+  "description": "XiaoQi 的学习笔记"
+}
